@@ -5,6 +5,8 @@ Developed an android app that enables user to learn endangered native American â
 
 * Implemented constant memory resource utilization in different states of the application.
 
+Requirements
+
 * Min SDK Version API 21
 
 * Target SDK 31
