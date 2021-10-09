@@ -1,7 +1,7 @@
 # Miwok
 Developed an android app that enables user to learn endangered native American “Miwok” language.
 
-Tech:
+Tech Used:  
 Java, XML, OOP, Intents, Activities, View Recycling, Multiscreen Support, Viewpager, Fragments, Media Playback. 
 
 Implemented constant memory resource utilization in different states of the application.
